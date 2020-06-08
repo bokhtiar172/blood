@@ -1,0 +1,22 @@
+.bg{
+  background-color: #3D63D2;
+
+}
+.height{
+  height: 40px;
+  line-height: 50px;
+  text-align: center;
+  background-color: #3D63D2;
+}
+
+.head-img{
+  border-radius: 20px;
+}
+
+
+.page{
+  height: 40px;
+  line-height: 50px;
+  text-align: center;
+  background-color: #3D63D2;
+}
